@@ -13,8 +13,3 @@ A simple web-based food ordering system built with HTML, CSS, and JavaScript.
 - CSS
 - JavaScript
 
-## 📸 Screenshots
-(Add screenshots here)
-
-## 🚀 How to Run
-Just open:
